@@ -45,7 +45,7 @@ The solution integrates **relational (MySQL)** and **NoSQL (MongoDB)** databases
 ## 📊 Key Features
 ✅ **Hybrid DBMS** – Relational + NoSQL (MySQL + MongoDB)  
 ✅ **Advanced SQL Queries** – Revenue analysis, order tracking, supplier KPIs  
-✅ **NoSQL Analytics (MongoDB)** – Flexible queries for customers, orders, deliveries, and payment aggregation using `$lookup` and `$group` pipelines:contentReference[oaicite:1]{index=1}  
+✅ **NoSQL Analytics (MongoDB)** – Flexible queries for customers, orders, deliveries, and payment aggregation using `$lookup` and `$group`  
 ✅ **Python Visualizations** – Interactive insights using Pandas & Matplotlib  
 ✅ **Flexible Payments & Deliveries** – Cash, Zelle, Apple Pay, Card  
 ✅ **Scalable Design** – Supports retail + wholesale transactions  
