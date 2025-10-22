@@ -1,4 +1,13 @@
 # Integrated Inventory Management & Sales Analysis 📦📊
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![MySQL](https://img.shields.io/badge/Database-MySQL-orange)
+![MongoDB](https://img.shields.io/badge/NoSQL-MongoDB-green)
+![Pandas](https://img.shields.io/badge/Data-Pandas-yellow)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-red)
+![SQL](https://img.shields.io/badge/Language-SQL-lightblue)
+![Jupyter](https://img.shields.io/badge/IDE-Jupyter%20Notebook-purple)
+![Data Analysis](https://img.shields.io/badge/Focus-Inventory%20%26%20Sales%20Analytics-brown)
+
 📅 Date: Sep 2024
 👤 Author: Nishanth Manoharan, Mohammed Ibrahim
 🛠️ Tech Stack: MySQL, NoSQL(MongoDB), Python (Pandas, Matplotlib, Jupyter), SQL, Data Visualization  
